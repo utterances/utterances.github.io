@@ -12,14 +12,13 @@ Publication pending
 ##### Publication
 *Evaluating Gesture-Augmented Piano Performance*, Qi Yang, Georg Essl 	
 [CMJ 2014](http://www.mitpressjournals.org/doi/abs/10.1162/COMJ_a_00277)
-[PDF]()
+[PDF](http://www-personal.umich.edu/~yangqi/pubs/CMJ 2014 Yang.pdf)
 
 *Visual Associations in Augmented Keyboard Performance*, Qi Yang, Georg Essl 	
 [NIME 2013](http://www-personal.umich.edu/~yangqi/yangqi.png)
 
 *Augmented Piano Performance using a Depth Camera*, Qi Yang, Georg Essl 	
 [NIME 2012](http://www-personal.umich.edu/~yangqi/yangqi.png)
-[PDF]()
 
 ## Influenza Transmission Study
 #### Mobile Sensor Data Analysis
