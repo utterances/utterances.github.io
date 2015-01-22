@@ -1,12 +1,19 @@
 ## Interaction Design Research
-![](http://www-personal.umich.edu/~yangqi/yangqi.png)
-[logo](http://www-personal.umich.edu/~yangqi/yangqi.png)
-#### Mobile Multi-touch Environment for Programming
-![](http://www-personal.umich.edu/~yangqi/yangqi.png)
+#### Multi-touch Visual Environment for Mobile
+To examine visual feedback in multi-touch interaction designs, I built a visual environment for multi-touch devices for assembling dynamic interfaces, such as digital musical instruments. Multiple visual feedback paradigms are implemented around a common core visual vocabulary, consisted of visual entities such as regions and links and containers.
+![tapperware overview](http://www-personal.umich.edu/~yangqi/yangqi.png)
 
-Publication pending
+This environment can be used to rapidly construct musical instruments, sample tasks were designed and used in human-subject usability study. In these example, a musical keyboard and multi-touch mixer instrument is built.
+![task video](http://www-personal.umich.edu/~yangqi/yangqi.png)
+[Vimeo: task 1](https://vimeo.com/116926224)
+[Vimeo: task 2](https://vimeo.com/116926223)
+
+Implemented for iPad using [urMus](http://urmus.eecs.umich.edu), a cross-platform audio and visual interaction environment using Lua.
+
+Publications pending
 
 #### Gesture-augmented Keyboard Instrument
+
 ![](http://www-personal.umich.edu/~yangqi/yangqi.png)
 
 ##### Publication
@@ -20,11 +27,14 @@ Publication pending
 *Augmented Piano Performance using a Depth Camera*, Qi Yang, Georg Essl 	
 [NIME 2012](http://www-personal.umich.edu/~yangqi/yangqi.png)
 
-## Influenza Transmission Study
-#### Mobile Sensor Data Analysis
+## Mobile Sensor Data Analysis and Visualization
+As part of the ExFlu study by University of Michigan School of Public Health, I cleaned and analyzed multi-sensory data collected from 100 phones over 3 month. These include bluetooth and wifi contacts, accelerometer, and battery.
 
-#### 
-You can @mention a GitHub username to generate a link to their profile. The resulting `<a>` element will link to the contributor's GitHub Profile. For example: In 2007, Chris Wanstrath (@defunkt), PJ Hyett (@pjhyett), and Tom Preston-Werner (@mojombo) founded GitHub.
+Between-phone Bluetooth contact data are used to visualize social contact between study participants.
+Contact by time of day
+Contact by day of study
+#### Localization using smart phone wifi access point data
 
-### Support or Contact
-Having trouble with Pages? Check out the documentation at https://help.github.com/pages or contact support@github.com and we’ll help you sort it out.
+
+## Web Development
+Harvest Mission Community Church
