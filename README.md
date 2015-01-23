@@ -38,16 +38,11 @@ As part of the ExFlu study by University of Michigan School of Public Health, I 
 
 Between-phone Bluetooth contact data are used to visualize social contact between study participants.
 
-_Contact network between 6 dormitory, by hour of day:_
 [![hourly visualization](http://www-personal.umich.edu/~yangqi/portfolio/images/iepi-hourly-thumb.jpg)](http://www-personal.umich.edu/~yangqi/portfolio/images/iepi-hourly.jpg)
+_Contact network between 6 dormitory, by hour of day_
 
-_Contact network between 6 dormitory, :_
-[![all day visualization](http://www-personal.umich.edu/~yangqi/portfolio/images/iepi-all-thumb.jpg)](http://www-personal.umich.edu/~yangqi/portfolio/images/iepi-all.jpg)
-
-I also coordinated the collection of GPS position of local wifi access points. These data enabled me to visualize on campus 
-
-#### Localization using smart phone wifi access point data
-
+I also coordinated the collection of GPS position of local wifi access points. These data enabled me to localize and visualize activities on-campus and heat spots.
+[![map](http://www-personal.umich.edu/~yangqi/portfolio/images/iepi-map-thumb.jpg)](http://www-personal.umich.edu/~yangqi/portfolio/images/iepi-map.jpg)
 
 ## Web Development
 Harvest Mission Community Church
