@@ -8,8 +8,7 @@ This environment can be used to rapidly construct musical instruments, sample ta
 [Video: Task 1](https://vimeo.com/116926224),
 [Video: Task 2](https://vimeo.com/116926223)
 
-##### Tools
-[urMus](http://urmus.eecs.umich.edu), a cross-platform audio and visual interaction environment, Lua, iOS.
+**Tools**: [urMus](http://urmus.eecs.umich.edu), Lua, iOS
 
 Publication pending
 
@@ -39,14 +38,12 @@ As part of the ExFlu study by University of Michigan School of Public Health, I 
 I also coordinated the collection of GPS position of local wifi access points. These data enabled me to localize and visualize activities on-campus and heat spots.
 [![map](http://www-personal.umich.edu/~yangqi/portfolio/images/iepi-map-thumb.jpg)](http://www-personal.umich.edu/~yangqi/portfolio/images/iepi-map.jpg)
 
-##### Tools
-Python, MSSQL, kml, matplotlib
+**Tools**: Python, MSSQL, kml, matplotlib
 
 ### Web Development & User Experience Design
 [![harvest](http://www-personal.umich.edu/~yangqi/portfolio/images/harvest-thumb.jpg)](http://www-personal.umich.edu/~yangqi/portfolio/images/harvest.jpg)
 I developed as part of the web development team of Harvest Mission Community Church. I also lead the upcoming redesign of the web presence of the nonprofit organization.
-##### Tools
-PHP, html+CSS, Sketch
+**Tools**: PHP, html+CSS, Sketch
 
 ### Mobile Security
 ![attack](http://www-personal.umich.edu/~yangqi/portfolio/images/attack.jpg)
