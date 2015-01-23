@@ -37,8 +37,14 @@ This novel interaction model enables us to explore different visualizations:
 As part of the ExFlu study by University of Michigan School of Public Health, I cleaned and analyzed multi-sensory data collected from 100 phones over 3 month. These include bluetooth and wifi contacts, accelerometer, and battery.
 
 Between-phone Bluetooth contact data are used to visualize social contact between study participants.
-Contact by time of day
-Contact by day of study
+_Contact network between 6 dormitory, by hour of day:_
+![hourly visualization](http://www-personal.umich.edu/~yangqi/portfolio/images/iepi-hourly.jpg)
+
+_Contact network between 6 dormitory, :_
+[![all day visualization](http://www-personal.umich.edu/~yangqi/portfolio/images/iepi-all-thumb.jpg)](http://www-personal.umich.edu/~yangqi/portfolio/images/iepi-all.jpg)
+
+I also coordinated the collection of GPS position of local wifi access points. These data enabled me to visualize on campus 
+
 #### Localization using smart phone wifi access point data
 
 
