@@ -1,5 +1,5 @@
 ## Interaction Design Research
-### Multi-touch Visual Programming Environment for Mobile
+### Mobile Multi-touch Visual Programming Environment
 ![tapperware overview](http://www-personal.umich.edu/~yangqi/portfolio/images/multi-overview.jpg)
 To examine visual feedback in multi-touch interaction design, I built a visual programming environment for multi-touch tablet for assembling interfaces. This serves as a platform to explore visual feedback in multi-touch interactions. Multiple visual feedback paradigms are implemented on top of a common core visual vocabulary, consisted of visual entities such as regions and links and containers.
 
@@ -21,6 +21,8 @@ Using Kinect Depth sensor to augment traditional keyboard instrument with a 3D g
 
 This novel interaction model enables us to explore different visualizations:
 ![keyboard visualization](http://www-personal.umich.edu/~yangqi/portfolio/images/key-vis.jpg)
+
+**Tools**: Kinect, Processing, OpenFrameworks, OpenCV
 
 #### Publication
 *Evaluating Gesture-Augmented Piano Performance*, Qi Yang, Georg Essl 
