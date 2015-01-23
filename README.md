@@ -42,12 +42,13 @@ I also coordinated the collection of GPS position of local wifi access points. T
 ##### Tools
 Python, MSSQL, kml, matplotlib
 
-### Web Development & User Experience
-I worked as part of the web development team of Harvest Mission Community Church to develop 
-
+### Web Development & User Experience Design
+[![harvest](http://www-personal.umich.edu/~yangqi/portfolio/images/harvest-thumb.jpg)](http://www-personal.umich.edu/~yangqi/portfolio/images/harvest.jpg)
+I developed as part of the web development team of Harvest Mission Community Church. I also lead the upcoming redesign of the web presence of the nonprofit organization.
+##### Tools
+PHP, html+CSS, Sketch
 
 ### Mobile Security
 ![attack](http://www-personal.umich.edu/~yangqi/portfolio/images/attack.jpg)
 We created a mobile phishing attack and proof-of-concept defense against the attack for computer security graduate course project. The demonstration attack targets the mobile browser, implemented for iOS, by mimicking the native application user interface to pass casual observation.
-
 [Paper](http://www-personal.umich.edu/~yangqi/pivot/mobile_phishing_defense.pdf)
