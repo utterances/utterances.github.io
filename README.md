@@ -22,17 +22,17 @@ Using Kinect Depth sensor to augment traditional keyboard instrument with a 3D g
 This novel interaction model enables us to explore different visualizations:
 ![keyboard visualization](http://www-personal.umich.edu/~yangqi/portfolio/images/key-vis.jpg)
 
-**Tools**: Kinect, Processing, OpenFrameworks, OpenCV
+**Tools**: Kinect, [Processing](https://processing.org), [OpenFrameworks](http://openframeworks.cc), [OpenCV](http://opencv.org)
 
 #### Publication
 *Evaluating Gesture-Augmented Piano Performance*, Qi Yang, Georg Essl 
-[CMJ 2014](http://www.mitpressjournals.org/doi/abs/10.1162/COMJ_a_00277) [PDF](http://www-personal.umich.edu/~yangqi/pubs/CMJ2014Yang.pdf)
+[CMJ 2014](http://www.mitpressjournals.org/doi/abs/10.1162/COMJ_a_00277) [PDF](http://www-personal.umich.edu/~yangqi/portfolio/pubs/CMJ2014Yang.pdf)
 
 *Visual Associations in Augmented Keyboard Performance*, Qi Yang, Georg Essl 
-[NIME 2013](http://www-personal.umich.edu/~yangqi/pubs/NIME13Yang.pdf)
+[NIME 2013](http://www-personal.umich.edu/~yangqi/portfolio/pubs/NIME13Yang.pdf)
 
 *Augmented Piano Performance using a Depth Camera*, Qi Yang, Georg Essl 
-[NIME 2012](http://www-personal.umich.edu/~yangqi/pubs/NIME12Yang.pdf)
+[NIME 2012](http://www-personal.umich.edu/~yangqi/portfolio/pubs/NIME12Yang.pdf)
 ___
 
 ## Mobile Phone Sensor Data Analysis
