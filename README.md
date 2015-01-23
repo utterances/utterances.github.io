@@ -37,7 +37,7 @@ ___
 
 ## Mobile Phone Sensor Data Analysis
 [![hourly visualization](http://www-personal.umich.edu/~yangqi/portfolio/images/iepi-hourly-thumb.jpg)](http://www-personal.umich.edu/~yangqi/portfolio/images/iepi-hourly.jpg)
-_Contact network between 6 dormitory, by hour of day_
+_Visualizing contact network between 6 dormitories, by hour of day_
 
 As part of the ExFlu study by University of Michigan School of Public Health, I cleaned and analyzed multi-sensory data collected from 100 phones over 3 month. These include bluetooth and wifi contacts, accelerometer, and battery. Between-phone Bluetooth contact data are used to visualize social contact between study participants.
 
