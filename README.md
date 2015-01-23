@@ -11,6 +11,7 @@ This environment can be used to rapidly construct musical instruments, sample ta
 **Tools**: [urMus](http://urmus.eecs.umich.edu), Lua, iOS
 
 Publication pending
+___
 
 ### Gesture-augmented Keyboard Instrument
 [![keyboard setup](http://www-personal.umich.edu/~yangqi/portfolio/images/key-overview.jpg)](https://vimeo.com/44947845)
@@ -30,6 +31,7 @@ This novel interaction model enables us to explore different visualizations:
 
 *Augmented Piano Performance using a Depth Camera*, Qi Yang, Georg Essl 
 [NIME 2012](http://www-personal.umich.edu/~yangqi/pubs/NIME12Yang.pdf)
+___
 
 ## Mobile Phone Sensor Data Analysis
 [![hourly visualization](http://www-personal.umich.edu/~yangqi/portfolio/images/iepi-hourly-thumb.jpg)](http://www-personal.umich.edu/~yangqi/portfolio/images/iepi-hourly.jpg)
@@ -41,12 +43,14 @@ I also coordinated the collection of GPS position of local wifi access points. T
 [![map](http://www-personal.umich.edu/~yangqi/portfolio/images/iepi-map-thumb.jpg)](http://www-personal.umich.edu/~yangqi/portfolio/images/iepi-map.jpg)
 
 **Tools**: Python, MSSQL, kml, matplotlib
+___
 
 ## Web Development & User Experience Design
 [![harvest](http://www-personal.umich.edu/~yangqi/portfolio/images/harvest-thumb.jpg)](http://www-personal.umich.edu/~yangqi/portfolio/images/harvest.jpg)
 I developed as part of the web development team of Harvest Mission Community Church. I also lead the upcoming redesign of the web presence of the nonprofit organization.
 
 **Tools**: PHP, html+CSS, Sketch
+___
 
 ## Mobile Security
 ![attack](http://www-personal.umich.edu/~yangqi/portfolio/images/attack.jpg)
