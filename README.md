@@ -1,5 +1,5 @@
-### Interaction Design Research
-#### Multi-touch Visual Programming Environment for Mobile
+## Interaction Design Research
+### Multi-touch Visual Programming Environment for Mobile
 ![tapperware overview](http://www-personal.umich.edu/~yangqi/portfolio/images/multi-overview.jpg)
 To examine visual feedback in multi-touch interaction design, I built a visual programming environment for multi-touch tablet for assembling interfaces. This serves as a platform to explore visual feedback in multi-touch interactions. Multiple visual feedback paradigms are implemented on top of a common core visual vocabulary, consisted of visual entities such as regions and links and containers.
 
@@ -12,7 +12,7 @@ This environment can be used to rapidly construct musical instruments, sample ta
 
 Publication pending
 
-#### Gesture-augmented Keyboard Instrument
+### Gesture-augmented Keyboard Instrument
 [![keyboard setup](http://www-personal.umich.edu/~yangqi/portfolio/images/key-overview.jpg)](https://vimeo.com/44947845)
 [Video demo](https://vimeo.com/44947845)
 
@@ -21,7 +21,7 @@ Using Kinect Depth sensor to augment traditional keyboard instrument with a 3D g
 This novel interaction model enables us to explore different visualizations:
 ![keyboard visualization](http://www-personal.umich.edu/~yangqi/portfolio/images/key-vis.jpg)
 
-##### Publication
+#### Publication
 *Evaluating Gesture-Augmented Piano Performance*, Qi Yang, Georg Essl 
 [CMJ 2014](http://www.mitpressjournals.org/doi/abs/10.1162/COMJ_a_00277) [PDF](http://www-personal.umich.edu/~yangqi/pubs/CMJ2014Yang.pdf)
 
@@ -31,7 +31,7 @@ This novel interaction model enables us to explore different visualizations:
 *Augmented Piano Performance using a Depth Camera*, Qi Yang, Georg Essl 
 [NIME 2012](http://www-personal.umich.edu/~yangqi/pubs/NIME12Yang.pdf)
 
-### Mobile Phone Sensor Data Analysis
+## Mobile Phone Sensor Data Analysis
 [![hourly visualization](http://www-personal.umich.edu/~yangqi/portfolio/images/iepi-hourly-thumb.jpg)](http://www-personal.umich.edu/~yangqi/portfolio/images/iepi-hourly.jpg)
 _Contact network between 6 dormitory, by hour of day_
 
@@ -42,13 +42,13 @@ I also coordinated the collection of GPS position of local wifi access points. T
 
 **Tools**: Python, MSSQL, kml, matplotlib
 
-### Web Development & User Experience Design
+## Web Development & User Experience Design
 [![harvest](http://www-personal.umich.edu/~yangqi/portfolio/images/harvest-thumb.jpg)](http://www-personal.umich.edu/~yangqi/portfolio/images/harvest.jpg)
 I developed as part of the web development team of Harvest Mission Community Church. I also lead the upcoming redesign of the web presence of the nonprofit organization.
 
 **Tools**: PHP, html+CSS, Sketch
 
-### Mobile Security
+## Mobile Security
 ![attack](http://www-personal.umich.edu/~yangqi/portfolio/images/attack.jpg)
 We created a mobile phishing attack and proof-of-concept defense against the attack for computer security graduate course project. The demonstration attack targets the mobile browser, implemented for iOS, by mimicking the native application user interface to pass casual observation.
 
