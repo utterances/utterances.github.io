@@ -47,17 +47,16 @@ I also coordinated the collection of GPS position of local wifi access points. T
 **Tools**: Python, MSSQL, kml, matplotlib
 ___
 
-## User Interface / Product Concept Development
-[![livewriter](http://www-personal.umich.edu/~yangqi/portfolio/images/livewriting-thumb.jpg)](http://www-personal.umich.edu/~yangqi/portfolio/images/livewriting.jpg)
-In collaboration with [Sang Won Lee](http://web.eecs.umich.edu/~snaglee/), I developed user interface and product concepts for a web-based writing application and corresponding mobile app which supports timed playback of the writing process, as well as enabling user to express emotion through typing gestures.
-
-___
-
 ## Web Development & User Experience Design
 [![harvest](http://www-personal.umich.edu/~yangqi/portfolio/images/harvest-thumb.jpg)](http://www-personal.umich.edu/~yangqi/portfolio/images/harvest.jpg)
 I developed as part of the web development team of Harvest Mission Community Church. I also lead the upcoming redesign of the web presence of the nonprofit organization.
 
 **Tools**: PHP, html+CSS, Sketch
+___
+
+## User Interface / Product Concept Development
+[![livewriter](http://www-personal.umich.edu/~yangqi/portfolio/images/livewriting-thumb.jpg)](http://www-personal.umich.edu/~yangqi/portfolio/images/livewriting.jpg)
+In collaboration with [Sang Won Lee](http://web.eecs.umich.edu/~snaglee/), I designed user interface and product concepts for a web-based writing application and corresponding mobile app which supports timed playback of the writing process, as well as enabling rich text-based expressions. A companion mobile app can capture nuanced typing gestures to enrich texting-like communications.
 ___
 
 ## Mobile Security
