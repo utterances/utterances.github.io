@@ -49,7 +49,7 @@ ___
 
 ## User Interface / Product Concept Development
 [![livewriter](http://www-personal.umich.edu/~yangqi/portfolio/images/livewriting-thumb.jpg)](http://www-personal.umich.edu/~yangqi/portfolio/images/livewriting.jpg)
-In collaboration with Sang Wang Lee, I developed user interface and product concepts for a web-based writing application and corresponding mobile app which supports timed playback of the writing process, as well as enabling user to express emotion through typing gestures.
+In collaboration with [Sang Won Lee](http://web.eecs.umich.edu/~snaglee/), I developed user interface and product concepts for a web-based writing application and corresponding mobile app which supports timed playback of the writing process, as well as enabling user to express emotion through typing gestures.
 
 ___
 
