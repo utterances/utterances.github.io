@@ -56,11 +56,11 @@ ___
 
 ## User Interface / Product Concept Development
 [![livewriter](http://www-personal.umich.edu/~yangqi/portfolio/images/livewriting-thumb.jpg)](http://www-personal.umich.edu/~yangqi/portfolio/images/livewriting.jpg)
-In collaboration with [Sang Won Lee](http://web.eecs.umich.edu/~snaglee/), I designed user interface and product concepts for a web-based writing application and corresponding mobile app which supports timed playback of the writing process, as well as enabling rich text-based expressions. A companion mobile app can capture nuanced typing gestures to enrich texting-like communications.
+In collaboration with [Sang Won Lee](http://web.eecs.umich.edu/~snaglee/), I designed user interface and product concepts for a web-based writing application and corresponding mobile app which supports timed playback of the writing process, as well as enabling rich text-based expressions. The companion mobile app can capture nuanced typing gestures to enrich texting-like communications.
 ___
 
 ## Mobile Security
 ![attack](http://www-personal.umich.edu/~yangqi/portfolio/images/attack.jpg)
-We created a mobile phishing attack and proof-of-concept defense against the attack for computer security graduate course project. The demonstration attack targets the mobile browser, implemented for iOS, by mimicking the native application user interface to pass casual observation.
+As a Computer Network Security course project, we created a mobile phishing attack and proof-of-concept defense against the attack for computer security graduate course project. The demonstration attack targets the iOS mobile browser by mimicking the native application user interface to pass casual observation. The defense uses a keyboard input monitoring to intercept possibly sensitive information.
 
-[Paper](http://www-personal.umich.edu/~yangqi/pivot/mobile_phishing_defense.pdf)
+[See Project Paper](http://www-personal.umich.edu/~yangqi/pivot/mobile_phishing_defense.pdf)
